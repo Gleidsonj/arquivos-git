@@ -1,1 +1,4 @@
 netflix
+google
+apple
+tesla
