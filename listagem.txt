@@ -1,0 +1,3 @@
+Criando funcao que pega dados do usuario
+
+usuario > nome > email > id
